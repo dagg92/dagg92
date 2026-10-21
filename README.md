@@ -1,4 +1,4 @@
-![Banner](chatGPT-GitHub-banner.jpg)
+![Banner](banner.jpg)
 
 <div align="center">
 
