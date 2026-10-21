@@ -1,3 +1,5 @@
+![Banner](chatGPT-GitHub-banner.jpg)
+
 <div align="center">
 
 # Hi, I'm Dagmara 👋
