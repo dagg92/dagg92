@@ -15,6 +15,25 @@ I've spent over a decade in retail and distribution, working hands-on with sales
 
 In 2026 I completed the **LSE Data Analytics Career Accelerator**, building skills in SQL, Python, R and Tableau through coursework and a real employer project. Now I'm looking to combine my operational experience with my analytical skills in a **data or reporting analyst role**.
 
+## 🛠️ Toolkit
+
+**Data analytics & visualisation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Workplace systems & reporting**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Conexiom](https://img.shields.io/badge/Conexiom-order%20processing-555555?style=for-the-badge)
+
+**What I do with them:** data cleaning and preparation · exploratory data analysis · KPI and performance reporting · communicating findings clearly
+
 ## 🤳 Connect with me
 
   [LinkedIn](https://www.linkedin.com/in/dagmara-gauden-180771111) · [Email](mailto:dagmara.gauden@gmail.com)
