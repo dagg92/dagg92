@@ -23,14 +23,13 @@ In 2026 I completed the **LSE Data Analytics Career Accelerator**, building skil
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Workplace systems & reporting**
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Conexiom](https://img.shields.io/badge/Conexiom-order%20processing-555555?style=for-the-badge)
+![Conexiom](https://img.shields.io/badge/Conexiom%20Order%20Processing-555555?style=for-the-badge)
 
 **What I do with them:** data cleaning and preparation · exploratory data analysis · KPI and performance reporting · communicating findings clearly
 
