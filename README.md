@@ -33,6 +33,16 @@ In 2026 I completed the **LSE Data Analytics Career Accelerator**, building skil
 
 **What I do with them:** data cleaning and preparation · exploratory data analysis · KPI and performance reporting · communicating findings clearly
 
+## 🚀 Featured projects
+
+### 🎲 Customer Behaviour & Sentiment Analysis: Turtle Games
+🏅 **Awarded Distinction** · LSE Data Analytics Career Accelerator
+
+Used regression, decision trees, K-means clustering and NLP on 2,000 customer records and reviews to show what drives loyalty, identify five customer segments and recommend how to improve marketing. Spending score came out as the strongest predictor of loyalty points, and a regression model explained about 84% of the variation.
+
+**Tools:** Python · R · scikit-learn · NLTK
+👉 [View the project](https://github.com/dagg92/turtle-games-customer-analytics)
+
 ## 🤳 Connect with me
 
   [LinkedIn](https://www.linkedin.com/in/dagmara-gauden-180771111) · [Email](mailto:dagmara.gauden@gmail.com)
